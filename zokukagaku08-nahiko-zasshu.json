@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nahiko-zasshu",
  "yomi": "かとりなひこざっしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "歌会記録",
+  "era": "明和元年〜7年（1764〜70）",
+  "author": "楫取魚彦（1723〜1782）",
+  "desc": "魚彦の家に加藤千蔭・河津美樹らが集った歌会の歌を記した雑集。明和元年11月の会に始まり、明和5年に「古言梯」を書き終えた祝いの歌も見える。"
+ },
  "editions": [
   {
    "pid": "993386",
